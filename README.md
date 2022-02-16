@@ -1,1 +1,1 @@
-# LineaeRegression
+# LinearRegression
